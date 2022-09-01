@@ -26,3 +26,16 @@
 | 1次試験  | 450   | 337   | 230   | 267.63 |
 | 2次試験  | 100   | 79    | 38.4  | 54.6   |
 | 最終成績 | 550   | 381.7 | 313.9 | 342.4  |
+
+## 問題文出典について
+掲載問題ファイルのうち、生命科学第IV問は、原著作権に配慮した処理を行っています。
+
+### 生命科学 第IV問
+*Nature Reviews Cancer* 17 (2017) 掲載の A. Sud et. al. による総説、
+["Genome-wide association studies of cancer: current insights and future perspectives"](http://dx.doi.org/10.1038/nrc.2017.82)
+が出典です。
+
+出題箇所は、原総説の冒頭イントロダクション部分（"The advent of GWAS"の前まで：問題8ページ最終行の前まで）、および、"Cancer risk loci identified"節の冒頭部分（問題8ページ最終行から）です。
+途中、原文から一部省略されている箇所が多くあります。
+
+[CORE](https://core.ac.uk) にて、[原総説のプレプリント様全文PDF](https://core.ac.uk/download/pdf/237404438.pdf)が公開されています。
